@@ -4,6 +4,8 @@ Generates an Anki flashcard deck (`.apkg`) for all C++ reference entries on [cpp
 
 Each card shows the C++ identifier (class / function / type) title on the front and the full formatted HTML reference page on the back — exactly as it appears on cpprefjp.
 
+すぐに使う場合、AnkiのインストールされたWindows PCで.apkgファイルを開いてください
+
 ## Requirements
 
 ```bash
